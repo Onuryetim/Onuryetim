@@ -12,7 +12,7 @@
 - SMART COMBI AUTOMATION
 
 
-## SMART CLEANING ROBOT (AKILLI TEMİZLİK ROBOTU)
+## SMART CLEANING ROBOT
 
 - Gümüşhane University
 - Design Project
@@ -20,7 +20,7 @@
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/97pebpf.png)
 
 
-## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM (LI-ION / LI-PO ŞARJ VE TAKİP SİSTEMİ)
+## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 
 - Gümüşhane University
 - Bachelor Thesis
@@ -37,7 +37,7 @@ COMPUTER INTERFACE
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/e16bqoe.png)
 
-## SMART COMBI AUTOMATION (AKILLI KOMBİ OTOMASYONU)
+## SMART COMBI AUTOMATION 
 
 - Hobby Project
 
