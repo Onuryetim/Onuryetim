@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-## Yapılan Çalışmalar
+## YAPILAN ÇALIŞMALAR
 
 
 
@@ -23,8 +23,16 @@
 - Bachelor Thesis
 - Project Partner: Mert Can Tıkman
 
+
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rogreer.png)
 
+COMPUTER INTERFACE
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hh9n4y0.png)
+
+ BLYNK MOBIL APP 
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/e16bqoe.png)
 
 ## SMART COMBI AUTOMATION (AKILLI KOMBİ OTOMASYONU)
 
