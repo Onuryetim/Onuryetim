@@ -26,7 +26,13 @@
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rogreer.png)
 
 
-##  (LI-ION / LI-PO ŞARJ VE TAKİP SİSTEMİ)
+## SMART COMBI AUTOMATION (AKILLI KOMBİ OTOMASYONU)
+
+- Hobby Project
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/7mcqm85.png)
+
+
 <!---
 Onuryetim/Onuryetim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
