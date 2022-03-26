@@ -29,6 +29,12 @@
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rogreer.png)
 
+
+MENU DESIGN 
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/6lk2dyw.png)
+
+
 COMPUTER INTERFACE
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hh9n4y0.png)
