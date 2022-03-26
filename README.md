@@ -17,7 +17,7 @@
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/97pebpf.png)
 
 
-## LI-ION LI-PO CHARGING AND TRACKING SYSTEM (LI-ION / LI-PO ŞARJ VE TAKİP SİSTEMİ)
+## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM (LI-ION / LI-PO ŞARJ VE TAKİP SİSTEMİ)
 
 - Gümüşhane University
 - Bachelor Thesis
