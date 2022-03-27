@@ -52,7 +52,7 @@ COMPUTER INTERFACE
 
 ## HC-05 RELAY LED CONTROLLER
 
-- Beginner Project
+- Hobby Project
  
  
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/16ce6r3.png)
