@@ -39,7 +39,7 @@ COMPUTER INTERFACE
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hh9n4y0.png)
 
- BLYNK MOBIL APP 
+ MOBILE APP 
 
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/e16bqoe.png)
 
