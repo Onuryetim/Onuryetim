@@ -11,6 +11,7 @@
 - LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 - SMART COMBI AUTOMATION
 - HC-05 RELAY LED CONTROLLER
+- LED COMMUNICATION 
 
 
 ## SMART CLEANING ROBOT
@@ -61,6 +62,20 @@ COMPUTER INTERFACE
  
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/q0ax17r.png)
 
+
+
+
+## LED COMMUNICATION 
+
+- Hobby Project
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ftz7qit.png)
+
+
+CONNECTION DIAGRAM
+
+
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hcjphef.png)
 
 
 <!---
