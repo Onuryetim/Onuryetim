@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+- Hi, I'm Nailcan Arslan</h1> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
+
+
+
+
 
 
 ## MADE WORKS 
