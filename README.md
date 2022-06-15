@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
-
+[![Mail Badge](https://img.shields.io/badge/onuryetim5434@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:onuryetim5434@gmail.com)](mailto:onuryetim5434@gmail.com)
 
 
 
