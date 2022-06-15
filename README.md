@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
 
 
-![](https://img.shields.io/github/followers/onuryetim?style=social(https://www.github.com/onuryetim)
+
 
 ## MADE WORKS 
 
