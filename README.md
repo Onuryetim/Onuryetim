@@ -8,8 +8,8 @@
 
 [![](https://img.shields.io/github/followers/onuryetim?style=social](https://www.github.com/onuryetim)
 
-[![](https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2Fforum.turkdevs.com%2Fuye%2Fonur5488.2305%2F)
 
+[![](https://img.shields.io/website?logo=red&url=https%3A%2F%2Fforum.turkdevs.com%2Fuye%2Fonur5488.2305%2F)
 
 ## MADE WORKS 
 
