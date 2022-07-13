@@ -77,7 +77,7 @@ COMPUTER INTERFACE
 CONNECTION DIAGRAM
 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/7uskc3q.png)
+![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/r8h8gr6.png)
 
 
 <!---
