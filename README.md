@@ -23,6 +23,10 @@
 
 ![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot.png)
 
+MOBILE APP 
+
+![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot_mobile_app.png)
+
 
 ## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
 
@@ -31,7 +35,7 @@
 - Project Partner: Mert Can Tıkman
 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rogreer.png)
+![Uygulama Ekran Görüntüsü](figure/lipo.png)
 
 
 MENU DESIGN 
