@@ -21,7 +21,7 @@
 - Gümüşhane University
 - Design Project
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/97pebpf.png)
+![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot.png)
 
 
 ## LI-ION / LI-PO CHARGING AND TRACKING SYSTEM
