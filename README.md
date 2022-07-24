@@ -40,22 +40,22 @@ MOBILE APP
 
 MENU DESIGN 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/6lk2dyw.png)
+![Uygulama Ekran Görüntüsü](figure/lipo_menu.png)
 
 
 COMPUTER INTERFACE
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hh9n4y0.png)
+![Uygulama Ekran Görüntüsü](figure/lipo_computer_interface.png)
 
  MOBILE APP 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/e16bqoe.png)
+![Uygulama Ekran Görüntüsü](figure/lipo_mobile_app.png)
 
 ## SMART COMBI AUTOMATION 
 
 - Hobby Project
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/7mcqm85.png)
+![Uygulama Ekran Görüntüsü](figure/otomasyon.png)
 
 ## HC-05 LED CONTROLLER
 
