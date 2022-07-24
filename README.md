@@ -23,6 +23,7 @@
 
 ![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot.png)
 
+
 MOBILE APP 
 
 ![Uygulama Ekran Görüntüsü](figure/smartCleaningRobot_mobile_app.png)
@@ -47,9 +48,11 @@ COMPUTER INTERFACE
 
 ![Uygulama Ekran Görüntüsü](figure/lipo_computer_interface.png)
 
+
  MOBILE APP 
 
 ![Uygulama Ekran Görüntüsü](figure/lipo_mobile_app.png)
+
 
 ## SMART COMBI AUTOMATION 
 
@@ -57,17 +60,17 @@ COMPUTER INTERFACE
 
 ![Uygulama Ekran Görüntüsü](figure/otomasyon.png)
 
+
 ## HC-05 LED CONTROLLER
 
 - Hobby Project
  
- 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/16ce6r3.png)
+![Uygulama Ekran Görüntüsü](figure/hc05RelayControl.png)
+
 
  MOBILE APP 
  
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/q0ax17r.png)
-
+![Uygulama Ekran Görüntüsü](figure/hc05RelayMobile.png)
 
 
 
@@ -75,13 +78,13 @@ COMPUTER INTERFACE
 
 - Hobby Project
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/ftz7qit.png)
+![Uygulama Ekran Görüntüsü](figure/ledCom.png)
 
 
 CONNECTION DIAGRAM
 
 
-![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/r8h8gr6.png)
+![Uygulama Ekran Görüntüsü](figure/ledComCircuit.png)
 
 
 <!---
