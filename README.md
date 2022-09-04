@@ -61,7 +61,7 @@ MOBILE APP
 - Hobby Project
 
 
-![Uygulama Ekran Görüntüsü](figure/Dc_Motor_Driver.png)
+![Uygulama Ekran Görüntüsü](figure/Motor_Driver.png)
 
 
 
