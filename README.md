@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
+<p align="left"> <img src="https://profile-counter.glitch.me/{onuryetim}/count.svg" /> </p>
 
 ### ⚡Skills
 <p align="left">
