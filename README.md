@@ -15,7 +15,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>  
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>     
 </p>  
-<a href="https://github.com/onuryetim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=onuryetim&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/onuryetim/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuryetim&layout=compact&theme=buefy&hide_border=true" /></a>
 
 ### 🏆GitHub Trophies
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=onuryetim&theme=discord&no-frame=false&no-bg=true&margin-w=4" /> </p>
