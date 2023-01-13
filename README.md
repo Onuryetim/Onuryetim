@@ -5,10 +5,3 @@
 - 📫 How to reach me ...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
 ![Visitor Count](https://profile-counter.glitch.me/{onuryetim}/count.svg)
-
-
-
-<!---
-Onuryetim/Onuryetim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
