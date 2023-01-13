@@ -5,4 +5,4 @@
 - 📫 How to reach me ...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
 <p align="left"> <img src="https://profile-counter.glitch.me/{onuryetim}/count.svg" /> </p>
-<p align="left"> <img src="<img src="https://github-readme-streak-stats.herokuapp.com/?user=onuryetim&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>" /> </p>
+<a href="http://www.github.com/nverma12345"><p align="left"> <img src="<img src="https://github-readme-streak-stats.herokuapp.com/?user=onuryetim&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>" /> </p>
