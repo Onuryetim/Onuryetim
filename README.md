@@ -11,4 +11,4 @@
 <p align="left"> <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/> </p>
 
 ### ✍️Random Dev Quote
-<p align="left"> <img src="https://quotes-github-readme.vercel.app/api?theme=algolia"/> </p>)
+<p align="left"> <img src="https://quotes-github-readme.vercel.app/api?theme=algolia"/> </p>
