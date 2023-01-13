@@ -5,4 +5,5 @@
 - 📫 How to reach me ...
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onuryetim" alt="onuryetim" /> </p>
 <p align="left"> <img src="https://profile-counter.glitch.me/{onuryetim}/count.svg" /> </p>
+-## 🏆GitHub Trophies
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=onuryetim&theme=discord&no-frame=false&no-bg=true&margin-w=4" /> </p>
