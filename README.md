@@ -16,6 +16,8 @@
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>     
 </p>  
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=onuryetim&show_icons=true&theme=radical" /> </p>
+
 
 ### 🏆GitHub Trophies
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=onuryetim&theme=discord&no-frame=false&no-bg=true&margin-w=4" /> </p>
